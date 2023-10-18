@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f83ec323-e49d-4b5c-acc1-c5096b5582e8" name="Changes" comment="homework 2&#10;if else constructions">
-      <change afterPath="$PROJECT_DIR$/src/main/java/first_classes/Credit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/first_classes/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/first_classes/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/first_classes/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
+    <list default="true" id="f83ec323-e49d-4b5c-acc1-c5096b5582e8" name="Changes" comment="homework 6&#10;description class Product">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/first_classes/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/first_classes/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/first_classes/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/first_classes/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationProject/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationProject/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationProject/.idea/misc.xml" beforeDir="false" />
@@ -105,13 +102,33 @@
       <option name="project" value="LOCAL" />
       <updated>1697648982954</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="homework 6&#10;description class Product">
+      <option name="closed" value="true" />
+      <created>1697651392419</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697651392419</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task 1" />
     <MESSAGE value="task 2 tax calc" />
     <MESSAGE value="homework 2&#10;if else constructions" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework 2&#10;if else constructions" />
+    <MESSAGE value="homework 6&#10;description class Product" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework 6&#10;description class Product" />
   </component>
 </project>
