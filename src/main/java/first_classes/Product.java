@@ -4,11 +4,11 @@ import java.math.BigDecimal;
 
 public class Product {
 
-    private String productName;
-    private int productCode;
-    private BigDecimal price;
-    private String productDescription;
-    private double availability;
+    String productName;
+    int productCode;
+    BigDecimal price;
+    String productDescription;
+    double availability;
 
     public String getProductName() {
         return productName;

@@ -2,12 +2,12 @@ package first_classes;
 
 public class Triangle {
 
-    private double angleA;
-    private double angleB;
-    private double angleC;
-    private double sideA;
-    private double sideB;
-    private double sideC;
+    double angleA;
+    double angleB;
+    double angleC;
+    double sideA;
+    double sideB;
+    double sideC;
 
     public Triangle(double angleA, double angleB, double angleC, double sideA, double sideB, double sideC) {
         this.angleA = angleA;

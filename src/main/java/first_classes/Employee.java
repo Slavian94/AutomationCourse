@@ -4,10 +4,10 @@ import java.math.BigDecimal;
 
 public class Employee {
 
-    private String lastName;
-    private String firstName;
-    private String position;
-    private BigDecimal salaryForHour;
+    String lastName;
+    String firstName;
+    String position;
+    BigDecimal salaryForHour;
 
     public Employee(String lastName, String firstName, String position, BigDecimal salaryForHour) {
         this.lastName = lastName;

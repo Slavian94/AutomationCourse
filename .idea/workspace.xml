@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f83ec323-e49d-4b5c-acc1-c5096b5582e8" name="Changes" comment="homework 6&#10;description class Product">
+    <list default="true" id="f83ec323-e49d-4b5c-acc1-c5096b5582e8" name="Changes" comment="homework 6&#10;description class Employee and Triangle">
+      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/first_classes/Credit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/first_classes/Credit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/first_classes/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/first_classes/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/first_classes/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/first_classes/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/first_classes/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/first_classes/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationProject/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutomationProject/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationProject/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationProject/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationProject/src/main/java/task1/Task1.java" beforeDir="false" />
@@ -110,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697651392419</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="homework 6&#10;description class Employee and Triangle">
+      <option name="closed" value="true" />
+      <created>1697654505197</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697654505198</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +139,7 @@
     <MESSAGE value="task 2 tax calc" />
     <MESSAGE value="homework 2&#10;if else constructions" />
     <MESSAGE value="homework 6&#10;description class Product" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework 6&#10;description class Product" />
+    <MESSAGE value="homework 6&#10;description class Employee and Triangle" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework 6&#10;description class Employee and Triangle" />
   </component>
 </project>
