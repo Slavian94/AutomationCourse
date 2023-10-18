@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f83ec323-e49d-4b5c-acc1-c5096b5582e8" name="Changes" comment="task 2 tax calc">
-      <change afterPath="$PROJECT_DIR$/src/main/java/if_else_constructions_task1/Constructions1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/if_else_constructions_task2/Constructions2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/if_else_constructions_task3/Constructions3.java" afterDir="false" />
+    <list default="true" id="f83ec323-e49d-4b5c-acc1-c5096b5582e8" name="Changes" comment="homework 2&#10;if else constructions">
+      <change afterPath="$PROJECT_DIR$/src/main/java/first_classes/Credit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/first_classes/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/first_classes/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/first_classes/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationProject/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationProject/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationProject/.idea/misc.xml" beforeDir="false" />
@@ -15,20 +18,14 @@
       <change beforePath="$PROJECT_DIR$/../AutomationProject/src/main/java/task1/Task1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationProject/src/main/java/task2/Task2.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationProject/src/main/java/task3/Task3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task1/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Task1/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Task1/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Task1/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Task1/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task2/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task2/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Task2/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Task2/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Task2/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Task2/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task3/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task3/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Task3/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Task3/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Task3/pom.xml" beforeDir="false" />
@@ -100,12 +97,21 @@
       <option name="project" value="LOCAL" />
       <updated>1697648365480</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="homework 2&#10;if else constructions">
+      <option name="closed" value="true" />
+      <created>1697648982953</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697648982954</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task 1" />
     <MESSAGE value="task 2 tax calc" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 2 tax calc" />
+    <MESSAGE value="homework 2&#10;if else constructions" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework 2&#10;if else constructions" />
   </component>
 </project>
