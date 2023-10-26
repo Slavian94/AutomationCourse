@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f83ec323-e49d-4b5c-acc1-c5096b5582e8" name="Changes" comment="homework 3&#10;task 1 - Figures">
-      <change afterPath="$PROJECT_DIR$/src/main/java/calc_salary/Salary.java" afterDir="false" />
+    <list default="true" id="f83ec323-e49d-4b5c-acc1-c5096b5582e8" name="Changes" comment="homework 3&#10;task 4 - Salary">
       <change afterPath="$PROJECT_DIR$/../LoopsTask1/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -82,7 +81,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Salary">
+  <component name="RunManager" selected="Application.Installment">
     <configuration name="Constructions2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="if_else_constructions_task2.Constructions2" />
       <module name="AutomationCourse" />
@@ -248,7 +247,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698328032184</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="homework 3&#10;task 4 - Salary">
+      <option name="closed" value="true" />
+      <created>1698335431017</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1698335431018</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,7 +278,8 @@
     <MESSAGE value="homework 6&#10;description class Credit" />
     <MESSAGE value="homework 3&#10;task 3 - Installment" />
     <MESSAGE value="homework 3&#10;task 1 - Figures" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework 3&#10;task 1 - Figures" />
+    <MESSAGE value="homework 3&#10;task 4 - Salary" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework 3&#10;task 4 - Salary" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -280,26 +288,6 @@
           <properties class="java.util.InputMismatchException" package="java.util" />
           <option name="timeStamp" value="1" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/calc_salary/Salary.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/calc_salary/Salary.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/calc_salary/Salary.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/calc_salary/Salary.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
