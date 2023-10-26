@@ -21,7 +21,7 @@ public class Arrays {
         System.out.print("Asc sorted array: ");
         printArray(numbers);
 
-        // реалізовано одним методом, так як додумався сортувати в останньому завданні тільки після сортування Desk
+// реалізовано одним методом, так як в моєму варіанті inner сортування можливе тільки після сортування Desk
         innerAndDeskSort(numbers);
     }
 
