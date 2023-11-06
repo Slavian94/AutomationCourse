@@ -11,4 +11,5 @@ public class AirBalloon extends AirTransport {
         //метод заправки газового балону в повітряної кулі
         super.fillingUp();
     }
+
 }

@@ -1,4 +1,31 @@
 package abstract_class_and_interface.animal.bird.not_flying;
 
-public class Penguin extends NotFlyingBird {
+import abstract_class_and_interface.Swim;
+
+public class Penguin extends NotFlyingBird implements Swim {
+    public Penguin(String name, String color, int numberOfPassenger, String kindOfFuel, String material, String voice) {
+        super(name, color, numberOfPassenger, kindOfFuel, material, voice);
+    }
+
+    @Override
+    protected void eating() {
+        super.eating();
+    }
+
+    @Override
+    protected void sleeping() {
+        super.sleeping();
+    }
+
+    @Override
+    public void moving() {
+        super.moving();
+    }
+
+    @Override
+    public void swimming() {
+
+    }
 }
+
+

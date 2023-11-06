@@ -1,8 +1,9 @@
 package abstract_class_and_interface.transport.air_transport;
 
+import abstract_class_and_interface.Fly;
 import abstract_class_and_interface.transport.Transport;
 
-public class AirTransport extends Transport {
+public class AirTransport extends Transport implements Fly {
 
     protected double stayingInTheAir;
     protected double flightHeight;
@@ -13,4 +14,5 @@ public class AirTransport extends Transport {
         this.stayingInTheAir = stayingInTheAir;
         this.flightHeight = flightHeight;
     }
+
 }
