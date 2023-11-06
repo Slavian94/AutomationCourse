@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f83ec323-e49d-4b5c-acc1-c5096b5582e8" name="Changes" comment="homework 8&#10;Abstract class and Interface&#10;add interfaces for transport">
+    <list default="true" id="f83ec323-e49d-4b5c-acc1-c5096b5582e8" name="Changes" comment="test">
       <change afterPath="$PROJECT_DIR$/../LoopsTask1/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/abstract_class_and_interface/transport/land_transport/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstract_class_and_interface/transport/land_transport/Bus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationProject/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationProject/.idea/misc.xml" beforeDir="false" />
@@ -349,7 +348,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699277569003</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="test">
+      <option name="closed" value="true" />
+      <created>1699277735946</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1699277735946</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -379,7 +386,8 @@
     <MESSAGE value="homework 8&#10;Abstract class and Interface&#10;transport" />
     <MESSAGE value="homework 8&#10;Abstract class and Interface" />
     <MESSAGE value="homework 8&#10;Abstract class and Interface&#10;add interfaces for transport" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework 8&#10;Abstract class and Interface&#10;add interfaces for transport" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
