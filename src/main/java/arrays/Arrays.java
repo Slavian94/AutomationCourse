@@ -21,12 +21,11 @@ public class Arrays {
         System.out.print("Asc sorted array: ");
         printArray(numbers);
 
-// реалізовано одним методом, так як в моєму варіанті inner сортування можливе тільки після сортування Desk
         innerAndDeskSort(numbers);
     }
 
     public static void printArray(int[] numbers) {
-        for (int num: numbers) {
+        for (int num : numbers) {
             System.out.print(num + " ");
         }
         System.out.println();
@@ -46,7 +45,7 @@ public class Arrays {
         System.out.print("Desc sorted array: ");
         printArray(numbers);
 
-        for (int k = 1; k < numbers.length ; k++) {
+        for (int k = 1; k < numbers.length; k++) {
             for (int i = k; i < numbers.length - 1; i++) {
                 if (numbers[i] > numbers[i + 1]) {
                     temp = numbers[i];

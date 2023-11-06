@@ -35,7 +35,7 @@ public class Constructions3 {
                     daysInMonth = 28;
                     break;
                 default:
-                    daysInMonth = 31;
+                    daysInMonth = 1;
             }
         } else {
             System.out.println("Такого номеру місяця не існує. Введіть від 1 до 12!");
