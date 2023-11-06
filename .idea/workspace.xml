@@ -6,60 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f83ec323-e49d-4b5c-acc1-c5096b5582e8" name="Changes" comment="homework 8&#10;Abstract class and Interface&#10;add interfaces for transport">
       <change afterPath="$PROJECT_DIR$/../LoopsTask1/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstract_class_and_interface/Fly.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstract_class_and_interface/Move.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstract_class_and_interface/Swim.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstract_class_and_interface/animal/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstract_class_and_interface/animal/bird/Bird.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstract_class_and_interface/animal/bird/flying/Duck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstract_class_and_interface/animal/bird/flying/Eagle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstract_class_and_interface/animal/bird/flying/FlyingBird.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstract_class_and_interface/animal/bird/flying/Pigeon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstract_class_and_interface/animal/bird/flying/Stork.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstract_class_and_interface/animal/bird/not_flying/Kiwi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstract_class_and_interface/animal/bird/not_flying/NotFlyingBird.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstract_class_and_interface/animal/bird/not_flying/Ostrich.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstract_class_and_interface/animal/bird/not_flying/Penguin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstract_class_and_interface/animal/fish/Catfish.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstract_class_and_interface/animal/fish/CrucianCarp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstract_class_and_interface/animal/fish/Fish.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstract_class_and_interface/animal/fish/Pike.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstract_class_and_interface/animal/pet/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstract_class_and_interface/animal/pet/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstract_class_and_interface/animal/pet/Hamster.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstract_class_and_interface/animal/pet/Pet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstract_class_and_interface/transport/Transport.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/calc_salary/Salary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/calc_tax_first/CalcTax.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/calc_tax_second/CalcTax2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/credit_installment/Installment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/figures/Figures.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/first_classes/Credit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/first_classes/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/first_classes/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/first_classes/Triangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/if_else_constructions_task1/Constructions1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/if_else_constructions_task2/Constructions2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/if_else_constructions_task3/Constructions3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/circle/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/quadrangle/Parallelogram.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/quadrangle/Quadrangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/quadrangle/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/quadrangle/Rhombus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/quadrangle/Square.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/quadrangle/Trapezium.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/triangle/EquilateralTriangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/triangle/IsoscelesTriangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/triangle/RectangularTriangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/triangle/Triangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/math_operation_task1/MathOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/abstract_class_and_interface/transport/land_transport/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstract_class_and_interface/transport/land_transport/Bus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationProject/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationProject/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationProject/pom.xml" beforeDir="false" />
@@ -393,7 +341,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699277415423</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="homework 8&#10;Abstract class and Interface&#10;add interfaces for transport">
+      <option name="closed" value="true" />
+      <created>1699277569002</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1699277569003</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
