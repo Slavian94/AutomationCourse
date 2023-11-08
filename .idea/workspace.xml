@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f83ec323-e49d-4b5c-acc1-c5096b5582e8" name="Changes" comment="test">
+    <list default="true" id="f83ec323-e49d-4b5c-acc1-c5096b5582e8" name="Changes" comment="homework 8&#10;all tasks done">
+      <change afterPath="$PROJECT_DIR$/src/main/java/enums/Size.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/enums/UseEnums.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LoopsTask1/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstract_class_and_interface/transport/land_transport/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstract_class_and_interface/transport/land_transport/Bus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationProject/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationProject/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationProject/pom.xml" beforeDir="false" />
@@ -54,8 +56,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Record" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -96,7 +99,7 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/macviacheslav/Desktop/automation/AutomationCourse&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Arrays">
+  <component name="RunManager" selected="Application.UseEnums">
     <configuration name="Arrays" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.Arrays" />
       <module name="AutomationCourse" />
@@ -178,8 +181,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UseEnums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enums.UseEnums" />
+      <module name="AutomationCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="enums.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UseEnums" />
         <item itemvalue="Application.Installment" />
         <item itemvalue="Application.Figures" />
         <item itemvalue="Application.Constructions3" />
@@ -356,7 +373,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699277735946</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="homework 8&#10;all tasks done">
+      <option name="closed" value="true" />
+      <created>1699277793241</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1699277793241</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -387,7 +412,8 @@
     <MESSAGE value="homework 8&#10;Abstract class and Interface" />
     <MESSAGE value="homework 8&#10;Abstract class and Interface&#10;add interfaces for transport" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="homework 8&#10;all tasks done" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework 8&#10;all tasks done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
