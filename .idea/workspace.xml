@@ -4,49 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f83ec323-e49d-4b5c-acc1-c5096b5582e8" name="Changes" comment="homework 9&#10;Enums">
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections_lesson10/CountSentence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LoopsTask1/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
+    <list default="true" id="f83ec323-e49d-4b5c-acc1-c5096b5582e8" name="Changes" comment="homework 10&#10;Collections">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/enums/UseEnums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enums/UseEnums.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutomationProject/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutomationProject/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutomationProject/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutomationProject/src/main/java/task1/Task1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutomationProject/src/main/java/task2/Task2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutomationProject/src/main/java/task3/Task3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task1/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task1/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task2/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task2/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task2/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task3/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task3/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task3/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../if_else_constructions_task1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../if_else_constructions_task1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../if_else_constructions_task1/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../if_else_constructions_task1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../if_else_constructions_task1/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../if_else_constructions_task1/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../if_else_constructions_task1/src/main/java/org/example/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../if_else_constructions_task2/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../if_else_constructions_task2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../if_else_constructions_task2/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../if_else_constructions_task2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../if_else_constructions_task2/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../if_else_constructions_task2/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../if_else_constructions_task3/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../if_else_constructions_task3/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../if_else_constructions_task3/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../if_else_constructions_task3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../if_else_constructions_task3/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../if_else_constructions_task3/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collections_lesson10/CountSentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections_lesson10/CountSentence.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -404,7 +364,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699473967561</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="homework 10&#10;Collections">
+      <option name="closed" value="true" />
+      <created>1701097778228</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1701097778228</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -437,7 +405,8 @@
     <MESSAGE value="test" />
     <MESSAGE value="homework 8&#10;all tasks done" />
     <MESSAGE value="homework 9&#10;Enums" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework 9&#10;Enums" />
+    <MESSAGE value="homework 10&#10;Collections" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework 10&#10;Collections" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
