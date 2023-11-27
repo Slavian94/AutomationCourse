@@ -13,7 +13,7 @@ public class UseEnums {
         System.out.println(size4.toString());
         Size size5 = Size.EXTRA_LARGE;
         System.out.println(size5.toString());
-        Size size6 = Size.DOUBLE_EXTRA_LARGE;
+        Size size6 = Size.DOUBLE_EXTRA_LARGE; 
         System.out.println(size6.toString());
     }
 

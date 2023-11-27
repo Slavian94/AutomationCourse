@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f83ec323-e49d-4b5c-acc1-c5096b5582e8" name="Changes" comment="homework 8&#10;all tasks done">
-      <change afterPath="$PROJECT_DIR$/src/main/java/enums/Size.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/enums/UseEnums.java" afterDir="false" />
+    <list default="true" id="f83ec323-e49d-4b5c-acc1-c5096b5582e8" name="Changes" comment="homework 9&#10;Enums">
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections_lesson10/CountSentence.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LoopsTask1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/enums/UseEnums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enums/UseEnums.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationProject/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationProject/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationProject/pom.xml" beforeDir="false" />
@@ -66,12 +67,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Slavian94"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Slavian94&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -99,7 +100,7 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/macviacheslav/Desktop/automation/AutomationCourse&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.UseEnums">
+  <component name="RunManager" selected="Application.CountSentence">
     <configuration name="Arrays" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.Arrays" />
       <module name="AutomationCourse" />
@@ -133,6 +134,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="if_else_constructions_task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountSentence" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections_lesson10.CountSentence" />
+      <module name="AutomationCourse" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;У світі багато важливих покликань, без яких суспільство не могло б існувати, наприклад, професія вчителя дуже важлива, тому що всі люди одержують основні знання в школі; без лікарів ми б не змогли поправити своє здоров’я; будівельники й архітектори створюють усе більше оригінальні й зроблені будинки й будинку, завдяки яким життя людини стає комфортна й затишною; така професія як швачка, теж дуже важлива й необхідна, інакше люди були б схожі один на інший в однаковому одязі.&quot;" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collections_lesson10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -381,7 +396,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699277793241</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="homework 9&#10;Enums">
+      <option name="closed" value="true" />
+      <created>1699473967560</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1699473967561</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -413,7 +436,8 @@
     <MESSAGE value="homework 8&#10;Abstract class and Interface&#10;add interfaces for transport" />
     <MESSAGE value="test" />
     <MESSAGE value="homework 8&#10;all tasks done" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework 8&#10;all tasks done" />
+    <MESSAGE value="homework 9&#10;Enums" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework 9&#10;Enums" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
