@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f83ec323-e49d-4b5c-acc1-c5096b5582e8" name="Changes" comment="homework 10&#10;Collections">
+    <list default="true" id="f83ec323-e49d-4b5c-acc1-c5096b5582e8" name="Changes" comment="homework 10&#10;Collections fixes">
+      <change afterPath="$PROJECT_DIR$/src/main/java/list_teachers/TeachersList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collections_lesson10/CountSentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections_lesson10/CountSentence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +61,7 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/macviacheslav/Desktop/automation/AutomationCourse&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CountSentence">
+  <component name="RunManager" selected="Application.TeachersList">
     <configuration name="Arrays" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.Arrays" />
       <module name="AutomationCourse" />
@@ -68,19 +69,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Constructions2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="if_else_constructions_task2.Constructions2" />
-      <module name="AutomationCourse" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="if_else_constructions_task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,6 +144,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TeachersList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list_teachers.TeachersList" />
+      <module name="AutomationCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="list_teachers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UseEnums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="enums.UseEnums" />
       <module name="AutomationCourse" />
@@ -171,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TeachersList" />
         <item itemvalue="Application.UseEnums" />
         <item itemvalue="Application.Installment" />
         <item itemvalue="Application.Figures" />
         <item itemvalue="Application.Constructions3" />
-        <item itemvalue="Application.Constructions2" />
       </list>
     </recent_temporary>
   </component>
@@ -372,7 +373,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701097778228</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="homework 10&#10;Collections fixes">
+      <option name="closed" value="true" />
+      <created>1701098288165</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1701098288165</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -406,7 +415,8 @@
     <MESSAGE value="homework 8&#10;all tasks done" />
     <MESSAGE value="homework 9&#10;Enums" />
     <MESSAGE value="homework 10&#10;Collections" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework 10&#10;Collections" />
+    <MESSAGE value="homework 10&#10;Collections fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework 10&#10;Collections fixes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
