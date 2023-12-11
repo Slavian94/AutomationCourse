@@ -16,15 +16,15 @@ public class TeachersList {
         browser.get("https://ithillel.ua/");
 
         WebElement courseButton = browser.findElement(
-                By.xpath("//*[@id='body']/div[1]/div[1]/div[2]/div/div/nav/ul/li[2]/button"));
+                By.xpath("//button[@data-dropdown-trigger='coursesMenu']"));
         courseButton.click();
 
         WebElement programmingButton = browser.findElement(
-                By.xpath("//*[@id='coursesMenuControlPanel']/ul/li[2]/button"));
+                By.xpath("//button[@data-category='programming']"));
         programmingButton.click();
 
         WebElement frontEndBasicButton = browser.findElement(
-                By.xpath("//*[@id='block-202987']/div/ul/li[1]/a"));
+                By.xpath("//a[@class='course-label -alt' and @href='https://ithillel.ua/courses/front-end-basic']"));
         frontEndBasicButton.click();
 
         WebElement coachesSection = browser.findElement(By.cssSelector(".-coaches"));
@@ -39,10 +39,6 @@ public class TeachersList {
 
         System.out.println(listNames);
 
-        Thread.sleep(2000);
         browser.quit();
     }
-// WebElement courseButton = browser.findElement(By.cssSelector("button.site-nav-link[data-dropdown-trigger*='coursesMenu']"));
-// WebElement courseButton = browser.findElement(By.xpath("//button[@data-dropdown-trigger = 'coursesMenu']"));
-// WebElement contactButton3 = browser.findElement(By.xpath("//button[contains(@data-dropdown-trigger, 'ursesMenu')]"));
 }
