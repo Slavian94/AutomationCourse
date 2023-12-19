@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f83ec323-e49d-4b5c-acc1-c5096b5582e8" name="Changes" comment="homework 11&#10;first selenium test">
+    <list default="true" id="f83ec323-e49d-4b5c-acc1-c5096b5582e8" name="Changes" comment="homework 11&#10;changes xpath">
+      <change afterPath="$PROJECT_DIR$/src/main/java/testingcourses/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testingcourses/NavigationButtons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testingcourses/QaCoursesPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/list_teachers/TeachersList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/list_teachers/TeachersList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Record" />
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -60,7 +62,7 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/macviacheslav/Desktop/automation/AutomationCourse&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TeachersList">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Arrays" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.Arrays" />
       <module name="AutomationCourse" />
@@ -68,19 +70,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Constructions3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="if_else_constructions_task3.Constructions3" />
-      <module name="AutomationCourse" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="if_else_constructions_task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,6 +111,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="credit_installment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testingcourses.Main" />
+      <module name="AutomationCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testingcourses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.TeachersList" />
         <item itemvalue="Application.UseEnums" />
         <item itemvalue="Application.Installment" />
         <item itemvalue="Application.Figures" />
-        <item itemvalue="Application.Constructions3" />
       </list>
     </recent_temporary>
   </component>
@@ -388,7 +390,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702238710926</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="homework 11&#10;changes xpath">
+      <option name="closed" value="true" />
+      <created>1702292499498</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1702292499499</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -424,7 +434,8 @@
     <MESSAGE value="homework 10&#10;Collections" />
     <MESSAGE value="homework 10&#10;Collections fixes" />
     <MESSAGE value="homework 11&#10;first selenium test" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework 11&#10;first selenium test" />
+    <MESSAGE value="homework 11&#10;changes xpath" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework 11&#10;changes xpath" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -433,6 +444,12 @@
           <properties class="java.util.InputMismatchException" package="java.util" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/testingcourses/sdsdsd.java</url>
+          <line>5</line>
+          <properties field="COURSES_CSS_SELECTOR" class="testingcourses.sdsdsd" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
