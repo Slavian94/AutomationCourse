@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f83ec323-e49d-4b5c-acc1-c5096b5582e8" name="Changes" comment="homework 12&#10;page object">
-      <change afterPath="$PROJECT_DIR$/src/main/java/streams/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/streams/RandomUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/streams/User.java" afterDir="false" />
+    <list default="true" id="f83ec323-e49d-4b5c-acc1-c5096b5582e8" name="Changes" comment="homework 13&#10;streams">
+      <change afterPath="$PROJECT_DIR$/src/main/java/quadratic_equations/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/quadratic_equations/QuadraticEquations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/QuadraticEquationsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -61,10 +61,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "/Users/macviacheslav/Desktop/automation/AutomationCourse",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.streams.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Arrays" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.Arrays" />
       <module name="AutomationCourse" />
@@ -94,11 +97,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testingcourses.Main" />
+      <option name="MAIN_CLASS_NAME" value="quadratic_equations.Main" />
       <module name="AutomationCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testingcourses.*" />
+          <option name="PATTERN" value="quadratic_equations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,59 +123,60 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="User (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="User" />
+    <configuration name="QuadraticEquationsTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutomationCourse" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="QuadraticEquationsTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="User" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.User" />
+    <configuration name="QuadraticEquationsTest.testNegativeDiscriminant" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutomationCourse" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="QuadraticEquationsTest" />
+      <option name="METHOD_NAME" value="testNegativeDiscriminant" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Users" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.Users" />
+    <configuration name="QuadraticEquationsTest.testNoRealRoots" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutomationCourse" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="QuadraticEquationsTest" />
+      <option name="METHOD_NAME" value="testNoRealRoots" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="streams.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.Main" />
+    <configuration name="QuadraticEquationsTest.testPositiveDiscriminant" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutomationCourse" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="QuadraticEquationsTest" />
+      <option name="METHOD_NAME" value="testPositiveDiscriminant" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.streams.Main" />
-        <item itemvalue="Application.User (1)" />
-        <item itemvalue="Application.User" />
-        <item itemvalue="Application.Users" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="TestNG.QuadraticEquationsTest" />
+        <item itemvalue="TestNG.QuadraticEquationsTest.testNoRealRoots" />
+        <item itemvalue="TestNG.QuadraticEquationsTest.testNegativeDiscriminant" />
+        <item itemvalue="TestNG.QuadraticEquationsTest.testPositiveDiscriminant" />
       </list>
     </recent_temporary>
   </component>
@@ -401,7 +405,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703012813378</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="homework 13&#10;streams">
+      <option name="closed" value="true" />
+      <created>1704902019464</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1704902019464</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -439,7 +451,8 @@
     <MESSAGE value="homework 11&#10;first selenium test" />
     <MESSAGE value="homework 11&#10;changes xpath" />
     <MESSAGE value="homework 12&#10;page object" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework 12&#10;page object" />
+    <MESSAGE value="homework 13&#10;streams" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework 13&#10;streams" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
