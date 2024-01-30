@@ -18,8 +18,12 @@ public class QuadraticEquations {
     }
     DecimalFormat df = new DecimalFormat("#.##");
 
+    private double calcDiscriminant() {
+       return secondCoefficient * secondCoefficient - 4 * firstCoefficient * thirdCoefficient;
+    }
+
     public void calcEquation() {
-        double discriminant = secondCoefficient * secondCoefficient - 4 * firstCoefficient * thirdCoefficient;
+        double discriminant = calcDiscriminant();
 
         if (discriminant > 0) {
             firstRoot = (-secondCoefficient + Math.sqrt(discriminant))/(2 * firstCoefficient) ;
